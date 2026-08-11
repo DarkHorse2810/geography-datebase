@@ -1,0 +1,43 @@
+[
+  {
+    "id": "population",
+    "nameJa": "人口・国土",
+    "items": [
+      { "id": "totalPopulation", "nameJa": "総人口", "unit": "万人" },
+      { "id": "area", "nameJa": "面積", "unit": "km²" },
+      { "id": "populationDensity", "nameJa": "人口密度", "unit": "人/km²" }
+    ]
+  },
+  {
+    "id": "agriculture",
+    "nameJa": "農業",
+    "items": [
+      { "id": "riceProduction", "nameJa": "米生産量", "unit": "万トン" },
+      { "id": "wheatProduction", "nameJa": "小麦生産量", "unit": "万トン" }
+    ]
+  },
+  {
+    "id": "energy",
+    "nameJa": "エネルギー",
+    "items": [
+      { "id": "electricityGeneration", "nameJa": "発電量", "unit": "億kWh" },
+      { "id": "crudeOilProduction", "nameJa": "原油生産量", "unit": "万トン" }
+    ]
+  },
+  {
+    "id": "trade",
+    "nameJa": "貿易",
+    "items": [
+      { "id": "exports", "nameJa": "輸出額", "unit": "億ドル" },
+      { "id": "imports", "nameJa": "輸入額", "unit": "億ドル" }
+    ]
+  },
+  {
+    "id": "economy",
+    "nameJa": "経済",
+    "items": [
+      { "id": "gdp", "nameJa": "GDP総額", "unit": "億ドル" },
+      { "id": "gdpPerCapita", "nameJa": "一人当たりGDP", "unit": "ドル" }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "EGY",
+  "capital": "カイロ",
+  "flagEmoji": "🇪🇬",
+  "dataStatus": "sample",
+  "overview": "北東アフリカに位置し、国土の大部分は砂漠。ナイル川流域に人口が集中する。スエズ運河を有し、古代文明の遺跡でも知られる。",
+  "stats": {
+    "population": {
+      "totalPopulation": { "value": 11300, "unit": "万人", "year": 2023 },
+      "area": { "value": 1001450, "unit": "km²", "year": 2023 },
+      "populationDensity": { "value": 113, "unit": "人/km²", "year": 2023 }
+    },
+    "agriculture": {
+      "riceProduction": { "value": 400, "unit": "万トン", "year": 2022 },
+      "wheatProduction": { "value": 950, "unit": "万トン", "year": 2022 }
+    },
+    "energy": {
+      "electricityGeneration": { "value": 2100, "unit": "億kWh", "year": 2022 },
+      "crudeOilProduction": { "value": 3200, "unit": "万トン", "year": 2022 }
+    },
+    "trade": {
+      "exports": { "value": 400, "unit": "億ドル", "year": 2023 },
+      "imports": { "value": 800, "unit": "億ドル", "year": 2023 }
+    },
+    "economy": {
+      "gdp": { "value": 3900, "unit": "億ドル", "year": 2023 },
+      "gdpPerCapita": { "value": 3500, "unit": "ドル", "year": 2023 }
+    }
+  }
+}

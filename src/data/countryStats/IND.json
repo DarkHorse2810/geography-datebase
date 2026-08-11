@@ -1,0 +1,30 @@
+{
+  "id": "IND",
+  "capital": "デリー",
+  "flagEmoji": "🇮🇳",
+  "dataStatus": "sample",
+  "overview": "南アジアに位置し、世界最多の人口を有する国。多民族・多言語・多宗教社会で、近年はIT産業を中心に急速な経済成長を続けている。",
+  "stats": {
+    "population": {
+      "totalPopulation": { "value": 143000, "unit": "万人", "year": 2023 },
+      "area": { "value": 3287263, "unit": "km²", "year": 2023 },
+      "populationDensity": { "value": 435, "unit": "人/km²", "year": 2023 }
+    },
+    "agriculture": {
+      "riceProduction": { "value": 13000, "unit": "万トン", "year": 2022 },
+      "wheatProduction": { "value": 11300, "unit": "万トン", "year": 2022 }
+    },
+    "energy": {
+      "electricityGeneration": { "value": 17000, "unit": "億kWh", "year": 2022 },
+      "crudeOilProduction": { "value": 3000, "unit": "万トン", "year": 2022 }
+    },
+    "trade": {
+      "exports": { "value": 4500, "unit": "億ドル", "year": 2023 },
+      "imports": { "value": 6700, "unit": "億ドル", "year": 2023 }
+    },
+    "economy": {
+      "gdp": { "value": 37500, "unit": "億ドル", "year": 2023 },
+      "gdpPerCapita": { "value": 2600, "unit": "ドル", "year": 2023 }
+    }
+  }
+}

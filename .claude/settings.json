@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/*)",
+      "Bash(node --version)",
+      "Bash(node -v)",
+      "Bash(npm install*)",
+      "Bash(npm run *)",
+      "Bash(npm create vite*)",
+      "Bash(npm audit*)",
+      "Bash(npm -v)",
+      "Bash(npm fund)"
+    ]
+  }
+}

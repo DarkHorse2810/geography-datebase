@@ -1,0 +1,30 @@
+{
+  "id": "USA",
+  "capital": "ワシントンD.C.",
+  "flagEmoji": "🇺🇸",
+  "dataStatus": "sample",
+  "overview": "北米大陸の大部分を占める連邦共和国。50州から構成され、世界最大の経済規模を持つ。多様な気候・地形を持ち、農業・工業・IT産業いずれも世界をリードする。",
+  "stats": {
+    "population": {
+      "totalPopulation": { "value": 33900, "unit": "万人", "year": 2023 },
+      "area": { "value": 9833517, "unit": "km²", "year": 2023 },
+      "populationDensity": { "value": 36, "unit": "人/km²", "year": 2023 }
+    },
+    "agriculture": {
+      "riceProduction": { "value": 700, "unit": "万トン", "year": 2022 },
+      "wheatProduction": { "value": 4900, "unit": "万トン", "year": 2022 }
+    },
+    "energy": {
+      "electricityGeneration": { "value": 43000, "unit": "億kWh", "year": 2022 },
+      "crudeOilProduction": { "value": 75000, "unit": "万トン", "year": 2022 }
+    },
+    "trade": {
+      "exports": { "value": 20600, "unit": "億ドル", "year": 2023 },
+      "imports": { "value": 33700, "unit": "億ドル", "year": 2023 }
+    },
+    "economy": {
+      "gdp": { "value": 274000, "unit": "億ドル", "year": 2023 },
+      "gdpPerCapita": { "value": 81600, "unit": "ドル", "year": 2023 }
+    }
+  }
+}

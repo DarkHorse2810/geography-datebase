@@ -1,0 +1,30 @@
+{
+  "id": "JPN",
+  "capital": "東京",
+  "flagEmoji": "🇯🇵",
+  "dataStatus": "sample",
+  "overview": "東アジアに位置する島国。四つの主要な島と数千の小島からなり、山地が国土の多くを占める。世界有数の経済大国で、自動車・電子機器などの製造業が盛ん。",
+  "stats": {
+    "population": {
+      "totalPopulation": { "value": 12435, "unit": "万人", "year": 2023 },
+      "area": { "value": 377975, "unit": "km²", "year": 2023 },
+      "populationDensity": { "value": 329, "unit": "人/km²", "year": 2023 }
+    },
+    "agriculture": {
+      "riceProduction": { "value": 700, "unit": "万トン", "year": 2022 },
+      "wheatProduction": { "value": 110, "unit": "万トン", "year": 2022 }
+    },
+    "energy": {
+      "electricityGeneration": { "value": 10000, "unit": "億kWh", "year": 2022 },
+      "crudeOilProduction": { "value": 0.5, "unit": "万トン", "year": 2022 }
+    },
+    "trade": {
+      "exports": { "value": 7400, "unit": "億ドル", "year": 2023 },
+      "imports": { "value": 7900, "unit": "億ドル", "year": 2023 }
+    },
+    "economy": {
+      "gdp": { "value": 42100, "unit": "億ドル", "year": 2023 },
+      "gdpPerCapita": { "value": 33900, "unit": "ドル", "year": 2023 }
+    }
+  }
+}

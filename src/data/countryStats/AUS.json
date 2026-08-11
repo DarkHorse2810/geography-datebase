@@ -1,0 +1,30 @@
+{
+  "id": "AUS",
+  "capital": "キャンベラ",
+  "flagEmoji": "🇦🇺",
+  "dataStatus": "sample",
+  "overview": "オセアニアに位置する島大陸国家。国土の大部分は乾燥した内陸部で、人口は沿岸都市部に集中する。鉱物資源の輸出に強みを持つ。",
+  "stats": {
+    "population": {
+      "totalPopulation": { "value": 2600, "unit": "万人", "year": 2023 },
+      "area": { "value": 7692024, "unit": "km²", "year": 2023 },
+      "populationDensity": { "value": 3.4, "unit": "人/km²", "year": 2023 }
+    },
+    "agriculture": {
+      "riceProduction": { "value": 50, "unit": "万トン", "year": 2022 },
+      "wheatProduction": { "value": 3600, "unit": "万トン", "year": 2022 }
+    },
+    "energy": {
+      "electricityGeneration": { "value": 2600, "unit": "億kWh", "year": 2022 },
+      "crudeOilProduction": { "value": 1600, "unit": "万トン", "year": 2022 }
+    },
+    "trade": {
+      "exports": { "value": 4200, "unit": "億ドル", "year": 2023 },
+      "imports": { "value": 2600, "unit": "億ドル", "year": 2023 }
+    },
+    "economy": {
+      "gdp": { "value": 17000, "unit": "億ドル", "year": 2023 },
+      "gdpPerCapita": { "value": 65400, "unit": "ドル", "year": 2023 }
+    }
+  }
+}

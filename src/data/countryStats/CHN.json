@@ -1,0 +1,30 @@
+{
+  "id": "CHN",
+  "capital": "北京",
+  "flagEmoji": "🇨🇳",
+  "dataStatus": "sample",
+  "overview": "東アジア最大の国で、世界最多クラスの人口を抱える。沿岸部を中心に工業化が進み、世界第2位の経済大国。広大な国土に多様な地形・気候が分布する。",
+  "stats": {
+    "population": {
+      "totalPopulation": { "value": 141200, "unit": "万人", "year": 2023 },
+      "area": { "value": 9600000, "unit": "km²", "year": 2023 },
+      "populationDensity": { "value": 147, "unit": "人/km²", "year": 2023 }
+    },
+    "agriculture": {
+      "riceProduction": { "value": 20700, "unit": "万トン", "year": 2022 },
+      "wheatProduction": { "value": 13700, "unit": "万トン", "year": 2022 }
+    },
+    "energy": {
+      "electricityGeneration": { "value": 89000, "unit": "億kWh", "year": 2022 },
+      "crudeOilProduction": { "value": 20000, "unit": "万トン", "year": 2022 }
+    },
+    "trade": {
+      "exports": { "value": 33800, "unit": "億ドル", "year": 2023 },
+      "imports": { "value": 25600, "unit": "億ドル", "year": 2023 }
+    },
+    "economy": {
+      "gdp": { "value": 179000, "unit": "億ドル", "year": 2023 },
+      "gdpPerCapita": { "value": 12700, "unit": "ドル", "year": 2023 }
+    }
+  }
+}

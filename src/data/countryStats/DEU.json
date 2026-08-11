@@ -1,0 +1,30 @@
+{
+  "id": "DEU",
+  "capital": "ベルリン",
+  "flagEmoji": "🇩🇪",
+  "dataStatus": "sample",
+  "overview": "中央ヨーロッパに位置し、EU最大の経済大国。自動車・機械工業などの製造業に強みを持ち、輸出主導型の経済構造を持つ。",
+  "stats": {
+    "population": {
+      "totalPopulation": { "value": 8400, "unit": "万人", "year": 2023 },
+      "area": { "value": 357592, "unit": "km²", "year": 2023 },
+      "populationDensity": { "value": 235, "unit": "人/km²", "year": 2023 }
+    },
+    "agriculture": {
+      "riceProduction": { "value": 0, "unit": "万トン", "year": 2022 },
+      "wheatProduction": { "value": 2200, "unit": "万トン", "year": 2022 }
+    },
+    "energy": {
+      "electricityGeneration": { "value": 5700, "unit": "億kWh", "year": 2022 },
+      "crudeOilProduction": { "value": 200, "unit": "万トン", "year": 2022 }
+    },
+    "trade": {
+      "exports": { "value": 17000, "unit": "億ドル", "year": 2023 },
+      "imports": { "value": 14200, "unit": "億ドル", "year": 2023 }
+    },
+    "economy": {
+      "gdp": { "value": 45600, "unit": "億ドル", "year": 2023 },
+      "gdpPerCapita": { "value": 54300, "unit": "ドル", "year": 2023 }
+    }
+  }
+}

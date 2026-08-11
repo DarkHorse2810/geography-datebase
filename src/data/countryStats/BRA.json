@@ -1,0 +1,30 @@
+{
+  "id": "BRA",
+  "capital": "ブラジリア",
+  "flagEmoji": "🇧🇷",
+  "dataStatus": "sample",
+  "overview": "南米最大の国で、アマゾン熱帯雨林の大部分を有する。農業・鉱業資源が豊富で、コーヒーや大豆などの輸出が経済を支える。",
+  "stats": {
+    "population": {
+      "totalPopulation": { "value": 21600, "unit": "万人", "year": 2023 },
+      "area": { "value": 8515767, "unit": "km²", "year": 2023 },
+      "populationDensity": { "value": 25, "unit": "人/km²", "year": 2023 }
+    },
+    "agriculture": {
+      "riceProduction": { "value": 1100, "unit": "万トン", "year": 2022 },
+      "wheatProduction": { "value": 950, "unit": "万トン", "year": 2022 }
+    },
+    "energy": {
+      "electricityGeneration": { "value": 6800, "unit": "億kWh", "year": 2022 },
+      "crudeOilProduction": { "value": 16000, "unit": "万トン", "year": 2022 }
+    },
+    "trade": {
+      "exports": { "value": 3400, "unit": "億ドル", "year": 2023 },
+      "imports": { "value": 2600, "unit": "億ドル", "year": 2023 }
+    },
+    "economy": {
+      "gdp": { "value": 21700, "unit": "億ドル", "year": 2023 },
+      "gdpPerCapita": { "value": 10000, "unit": "ドル", "year": 2023 }
+    }
+  }
+}
